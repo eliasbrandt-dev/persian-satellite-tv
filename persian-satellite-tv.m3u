@@ -313,3 +313,39 @@ https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="IRIB",Zagros TV (Iran)
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMTV.tr@SD" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" group-title="GEM",GEM TV
+https://glwizhstb42.glwiz.com/GEMTV_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-logo="" group-title="GEM",GEM Series
+https://glwizhstb42.glwiz.com/GemSeries_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMClassic.tr@SD" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="GEM",GEM Classic
+https://glwizhstb42.glwiz.com/GemClassic_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMFilm.tr@SD" tvg-logo="https://i.imgur.com/nrFz3LU.png" group-title="GEM",GEM Film
+https://glwizhstb42.glwiz.com/GemFilm_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMDrama.tr@SD" tvg-logo="https://i.imgur.com/k2pGyRH.png" group-title="GEM",GEM Drama
+https://glwizhstb42.glwiz.com/GEMDrama_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMJunior.tr@SD" tvg-logo="https://i.imgur.com/jK8yzj2.png" group-title="GEM",GEM Junior
+https://glwizhstb42.glwiz.com/GemJunior_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMKids.tr@SD" tvg-logo="https://i.imgur.com/ArkjaFk.png" group-title="GEM",GEM Kids
+https://glwizhstb42.glwiz.com/GemKids_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMComedy.tr@SD" tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="GEM",GEM Comedy
+https://glwizhstb42.glwiz.com/GemComedy_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMNature.tr@SD" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="GEM",GEM Nature
+https://glwizhstb42.glwiz.com/GemNature_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMMifa.tr@SD" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="GEM",GEM Mifa
+https://glwizhstb42.glwiz.com/MifaMusic_HD.m3u8?user=sgls76551&session=e3cb0b4aeff3264c454986279fddd3bb9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMRubix.tr@SD" tvg-logo="https://i.imgur.com/cDjOj58.png" group-title="GEM",GEM Rubix
+https://glwizhstb53.glwiz.com/RUBIX_HD.m3u8?user=sgls76551&session=942238344ac5c1969b587bf228b22e4e9ad64cffe83e6c4c148cb26b4b312350585be18972c83327&group_id=76551
+#EXTINF:-1 tvg-id="GEMRiver.tr@SD" tvg-logo="https://i.imgur.com/yJ6f1B6.png" group-title="GEM",GEM River
+https://glwizhstb53.glwiz.com/RIVER_HD.m3u8?user=sgls76551&session=cbf215472cc1e32f721687010d2eb59b6b86c3439cd31ae5e0d4d36c761b6e51830c2e2b6f65599b&group_id=76551
+#EXTINF:-1 tvg-id="GEMOnyx.tr@SD" tvg-logo="https://i.imgur.com/gXRIAw4.png" group-title="GEM",GEM Onyx
+https://glwizhstb48.glwiz.com/ONYX_HD.m3u8?user=sgls76551&session=3aa9160fffc452afabab7a7a6a3b478acf03001232089688&group_id=76551
+#EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="GEM",GEM Bollywood
+https://glwizhstb51.glwiz.com/GEMBollywood_HD.m3u8?user=sgls76551&session=9bf0407f7d45b45dc8473f9adfc7789ee631f6aa3b323e72bbd5860b672d1539759da44f728a1efa&group_id=76551
+#EXTINF:-1 tvg-id="GEMLife.tr@SD" tvg-logo="https://i.imgur.com/gI8qePa.png" group-title="GEM",GEM Life
+https://glwizhstb49.glwiz.com/GemLife1_HD.m3u8?user=sgls76551&session=6667fd066640008d4af98a149f077fca6e87fce65fb2d4aa8c8ae3e7ffa1958e1b9d6eec4b7532b1&group_id=76551
+#EXTINF:-1 tvg-logo="" group-title="GEM",GEM Documentary
+https://glwizhstb40.glwiz.com/GemDocumentary_HD.m3u8?user=sgls76551&session=a41090bbfe5500974a5b2156c65dd15d3f21bdf90f85cafe969869468ab4cfa7759da44f728a1efa&group_id=76551
+#EXTINF:-1 tvg-id="GEMFood.tr@SD" tvg-logo="https://i.imgur.com/SMtSinK.png" group-title="GEM",GEM Food
+https://glwizhstb39.glwiz.com/GemFood_HD.m3u8?user=sgls76551&session=ca4dbeb41f8fad5ad43bd8a1643ec3d3b2f512b880ce402b969869468ab4cfa7759da44f728a1efa&group_id=76551
+#EXTINF:-1 tvg-logo="" group-title="Movies",TV8
+https://tv8nt.b-cdn.net/TV8.m3u8
